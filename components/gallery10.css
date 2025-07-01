@@ -1,0 +1,309 @@
+.gallery10-gallery3 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.gallery10-max-width {
+  gap: 48px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.gallery10-section-title {
+  gap: 24px;
+  width: auto;
+  display: flex;
+  max-width: 800px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.gallery10-text10 {
+  text-align: center;
+}
+ 
+.gallery10-text11 {
+  text-align: center;
+}
+ 
+.gallery10-container {
+  gap: 24px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+ 
+.gallery10-content {
+  gap: 24px;
+  flex: 1;
+  width: 100%;
+  height: 600px;
+  display: flex;
+  overflow: auto;
+}
+ 
+.gallery10-image1 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: flex-end;
+  border-radius: 0px;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/Case Studies/peakline%20at%20copperleaf-poi-003-1500w.jpg");
+  background-repeat: space;
+  background-position: center;
+}
+ 
+.gallery10-text12 {
+  fill: var(--dl-color-primary-navyblue);
+  color: var(--dl-color-primary-navyblue);
+  display: flex;
+  flex-wrap: wrap;
+  align-self: flex-end;
+  text-align: center;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 0.75);
+}
+ 
+.gallery10-image2 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  background-size: cover;
+  background-image: b8fff4c3-97b1-4141-90a5-5a231a562cae;
+  background-position: top left;
+}
+ 
+.gallery10-text13 {
+  fill: var(--dl-color-primary-navyblue);
+  color: var(--dl-color-primary-navyblue);
+  display: flex;
+  flex-wrap: wrap;
+  align-self: flex-end;
+  text-align: center;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 0.75);
+}
+ 
+.gallery10-image6 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  background-size: cover;
+  background-image: url("public/Case Studies/sophia%20square-poi-008-1500w.jpg");
+  background-position: right;
+}
+ 
+.gallery10-text14 {
+  fill: var(--dl-color-primary-navyblue);
+  color: var(--dl-color-primary-navyblue);
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: flex-end;
+  text-align: center;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 0.75);
+}
+ 
+.gallery10-image71 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  background-size: cover;
+  background-image: url("public/Case Studies/_dsc0698-hdr_1-1500w.jpg");
+  background-position: center;
+}
+ 
+.gallery10-text15 {
+  fill: var(--dl-color-primary-navyblue);
+  color: var(--dl-color-primary-navyblue);
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: flex-end;
+  text-align: center;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 0.75);
+}
+ 
+.gallery10-image72 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  background-size: cover;
+  background-image: url("public/Case Studies/lumina-exterior-sign-1500w.jpg");
+  background-position: left;
+}
+ 
+.gallery10-text16 {
+  fill: var(--dl-color-primary-navyblue);
+  color: var(--dl-color-primary-navyblue);
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: flex-end;
+  text-align: center;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 0.75);
+}
+ 
+.gallery10-fragment1 {
+  display: contents;
+}
+ 
+.gallery10-text17 {
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.gallery10-text18 {
+  font-size: 18px;
+  font-weight: 700;
+}
+ 
+.gallery10-text21 {
+  font-weight: 700;
+}
+ 
+.gallery10-fragment2 {
+  display: contents;
+}
+ 
+.gallery10-text22 {
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.gallery10-text23 {
+  font-size: 18px;
+  font-weight: 700;
+}
+ 
+.gallery10-text26 {
+  font-weight: 700;
+}
+ 
+.gallery10-text27 {
+  font-weight: 700;
+}
+ 
+.gallery10-fragment3 {
+  display: contents;
+}
+ 
+.gallery10-text28 {
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.gallery10-text29 {
+  font-size: 18px;
+  font-weight: 700;
+}
+ 
+.gallery10-text32 {
+  font-weight: 700;
+}
+ 
+.gallery10-text33 {
+  font-weight: 700;
+}
+ 
+.gallery10-fragment4 {
+  display: contents;
+}
+ 
+.gallery10-text34 {
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.gallery10-text35 {
+  font-size: 18px;
+  font-weight: 700;
+}
+ 
+.gallery10-text38 {
+  font-weight: 700;
+}
+ 
+.gallery10-text39 {
+  font-weight: 700;
+}
+ 
+.gallery10-fragment5 {
+  display: contents;
+}
+ 
+.gallery10-text40 {
+  color: var(--dl-color-gray-grey);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.gallery10-fragment6 {
+  display: contents;
+}
+ 
+.gallery10-text41 {
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.gallery10-text42 {
+  font-size: 18px;
+  font-weight: 700;
+}
+ 
+.gallery10-text45 {
+  font-weight: 700;
+}
+ 
+.gallery10-fragment7 {
+  display: contents;
+}
+ 
+.gallery10-text46 {
+  color: var(--dl-color-primary-ageanblue);
+  display: inline-block;
+  font-size: 48px;
+  font-family: "Arial";
+}
+ 
+.gallery10root-class-name {
+  background-color: rgba(196, 221, 229, 0.45);
+}
+ 
+@media(max-width: 767px) {
+  .gallery10-section-title {
+    gap: 24px;
+  }
+  .gallery10-content {
+    height: 450px;
+  }
+}

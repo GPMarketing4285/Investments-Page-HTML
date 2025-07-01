@@ -1,0 +1,1117 @@
+.team1-max-width {
+  gap: var(--dl-layout-space-fiveunits);
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-section-title {
+  gap: var(--dl-layout-space-unit);
+  width: 100%;
+  display: flex;
+  max-width: 800px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.team1-content10 {
+  gap: 24px;
+  width: 100%;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-text10 {
+  fill: var(--dl-color-primary-ageanblue);
+  color: var(--dl-color-primary-ageanblue);
+}
+ 
+.team1-text11 {
+  width: 1029px;
+  height: 99px;
+  font-family: "Arial";
+}
+ 
+.team1-content11 {
+  gap: 96px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-content12 {
+  gap: 64px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.team1-row1 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.team1-container1 {
+  gap: 32px;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+ 
+.team1-card10 {
+  gap: 24px;
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  max-width: 500px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.team1-placeholder-image10 {
+  width: 131px;
+  height: 131px;
+  display: flex;
+  margin-top: 0px;
+  background-size: cover;
+  background-image: url("public/Team Headshots/luke%20simpson_cropped-500w.jpg");
+  background-position: top;
+}
+ 
+.team1-content13 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-title10 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-text12 {
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.team1-text13 {
+  text-align: center;
+}
+ 
+.team1-text14 {
+  text-align: center;
+}
+ 
+.team1-card11 {
+  gap: 24px;
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  max-width: 500px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.team1-placeholder-image11 {
+  width: 131px;
+  height: 131px;
+  display: flex;
+  background-size: cover;
+  background-image: url("public/Team Headshots/nick%20simpson_cropped-500w.jpg");
+  background-position: top;
+}
+ 
+.team1-content14 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-title11 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-text15 {
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.team1-text16 {
+  text-align: center;
+}
+ 
+.team1-text17 {
+  text-align: center;
+}
+ 
+.team1-container2 {
+  gap: 32px;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+ 
+.team1-card12 {
+  gap: 24px;
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  max-width: 500px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.team1-placeholder-image12 {
+  width: 131px;
+  height: 131px;
+  display: flex;
+  background-size: cover;
+  background-image: url("public/Team Headshots/kevin%20jewett_cropped-500w.jpg");
+  background-position: top;
+}
+ 
+.team1-content15 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-title12 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-text18 {
+  fill: #666666;
+  color: #666666;
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.team1-text19 {
+  text-align: center;
+}
+ 
+.team1-text20 {
+  text-align: center;
+}
+ 
+.team1-social-icons1 {
+  gap: var(--dl-layout-space-unit);
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.team1-card13 {
+  gap: 24px;
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  max-width: 500px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.team1-placeholder-image13 {
+  width: 131px;
+  height: 131px;
+  display: flex;
+  background-size: cover;
+  background-image: url("public/Team Headshots/max%20siler_cropped-500w.jpg");
+  background-position: top;
+}
+ 
+.team1-content16 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-title13 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-text21 {
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.team1-text22 {
+  text-align: center;
+}
+ 
+.team1-text23 {
+  text-align: center;
+}
+ 
+.team1-social-icons2 {
+  gap: var(--dl-layout-space-unit);
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.team1-row2 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.team1-container3 {
+  gap: 32px;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+ 
+.team1-card14 {
+  gap: 24px;
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  max-width: 500px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.team1-placeholder-image14 {
+  width: 131px;
+  height: 131px;
+  display: flex;
+  background-size: cover;
+  background-image: url("public/Team Headshots/elli%20lobach_cropped-500w.jpg");
+  background-position: top;
+}
+ 
+.team1-content17 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-title14 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-text24 {
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 600;
+}
+ 
+.team1-text25 {
+  text-align: center;
+  font-family: "Arial";
+}
+ 
+.team1-text26 {
+  text-align: center;
+}
+ 
+.team1-card15 {
+  gap: 24px;
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  max-width: 500px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.team1-placeholder-image15 {
+  width: 131px;
+  height: 131px;
+  display: flex;
+  background-size: cover;
+  background-image: url("public/Team Headshots/spencer%20welton_cropped-500w.jpg");
+  background-position: top;
+}
+ 
+.team1-content18 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-title15 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-text27 {
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 600;
+}
+ 
+.team1-text28 {
+  text-align: center;
+  font-family: "Arial";
+}
+ 
+.team1-text29 {
+  font-size: 12px;
+  text-align: center;
+  font-family: "Arial";
+}
+ 
+.team1-container4 {
+  gap: 32px;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+ 
+.team1-card16 {
+  gap: 24px;
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  max-width: 500px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.team1-placeholder-image16 {
+  width: 131px;
+  height: 131px;
+  display: flex;
+  background-size: cover;
+  background-image: url("public/Team Headshots/michael%20sommers_cropped-500w.jpg");
+  background-position: top;
+}
+ 
+.team1-content19 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-title16 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-text30 {
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 600;
+}
+ 
+.team1-text31 {
+  text-align: center;
+  font-family: "Arial";
+}
+ 
+.team1-text32 {
+  font-size: 12px;
+  text-align: center;
+  font-family: "Arial";
+}
+ 
+.team1-card17 {
+  gap: 24px;
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  max-width: 500px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: #ffffff;
+  border-style: dashed;
+  border-width: 2px;
+  flex-direction: column;
+}
+ 
+.team1-row3 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.team1-container5 {
+  gap: 32px;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+ 
+.team1-card18 {
+  gap: 24px;
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  max-width: 500px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.team1-placeholder-image17 {
+  width: 131px;
+  height: 131px;
+  display: flex;
+  background-size: cover;
+  background-image: url("public/Team Headshots/jeff%20anderson-500w.png");
+  background-position: center;
+}
+ 
+.team1-content20 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-title17 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-text33 {
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 600;
+}
+ 
+.team1-text34 {
+  text-align: center;
+}
+ 
+.team1-text35 {
+  text-align: center;
+}
+ 
+.team1-card19 {
+  gap: 24px;
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  max-width: 500px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.team1-placeholder-image18 {
+  width: 131px;
+  height: 131px;
+  display: flex;
+  background-size: cover;
+  background-image: url("public/Team Headshots/matt%20lyons_cropped-500w.jpg");
+  background-position: top;
+}
+ 
+.team1-content21 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-title18 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-text36 {
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.team1-text37 {
+  text-align: center;
+}
+ 
+.team1-text38 {
+  text-align: center;
+}
+ 
+.team1-container6 {
+  gap: 32px;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+ 
+.team1-card20 {
+  gap: 24px;
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  max-width: 500px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.team1-placeholder-image19 {
+  width: 131px;
+  height: 131px;
+  display: flex;
+  background-size: cover;
+  background-image: url("public/Team Headshots/andy%20luft_cropped-500w.jpg");
+  background-position: top;
+}
+ 
+.team1-content22 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-title19 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-text39 {
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.team1-text40 {
+  text-align: center;
+}
+ 
+.team1-text41 {
+  text-align: center;
+}
+ 
+.team1-card21 {
+  gap: 24px;
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  max-width: 500px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.team1-placeholder-image20 {
+  width: 131px;
+  height: 131px;
+  display: flex;
+  background-size: cover;
+  background-image: url("public/Team Headshots/jennifer%20turner_cropped-500w.jpg");
+  background-position: top;
+}
+ 
+.team1-content23 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-title20 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.team1-text42 {
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.team1-text43 {
+  text-align: center;
+}
+ 
+.team1-text44 {
+  text-align: center;
+}
+ 
+.team1-fragment10 {
+  display: contents;
+}
+ 
+.team1-text45 {
+  color: rgb(102, 102, 102);
+  display: inline-block;
+  font-size: 12px;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 400;
+}
+ 
+.team1-fragment11 {
+  display: contents;
+}
+ 
+.team1-text46 {
+  color: var(--dl-color-primary-ageanblue);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment12 {
+  display: contents;
+}
+ 
+.team1-text47 {
+  color: var(--dl-color-primary-navyblue);
+  display: inline-block;
+}
+ 
+.team1-fragment13 {
+  display: contents;
+}
+ 
+.team1-text48 {
+  color: rgb(102, 102, 102);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment14 {
+  display: contents;
+}
+ 
+.team1-text51 {
+  color: #666666;
+  display: inline-block;
+  font-size: 12px;
+  font-family: "Arial";
+}
+ 
+.team1-fragment15 {
+  display: contents;
+}
+ 
+.team1-text52 {
+  color: #666666;
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment16 {
+  display: contents;
+}
+ 
+.team1-text53 {
+  color: rgb(102, 102, 102);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment17 {
+  display: contents;
+}
+ 
+.team1-text54 {
+  color: var(--dl-color-primary-navyblue);
+  display: inline-block;
+}
+ 
+.team1-fragment18 {
+  display: contents;
+}
+ 
+.team1-text55 {
+  color: var(--dl-color-primary-navyblue);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment19 {
+  display: contents;
+}
+ 
+.team1-text56 {
+  color: var(--dl-color-primary-navyblue);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment20 {
+  display: contents;
+}
+ 
+.team1-text57 {
+  color: var(--dl-color-primary-navyblue);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment21 {
+  display: contents;
+}
+ 
+.team1-text58 {
+  display: inline-block;
+  font-size: 12px;
+  font-family: "Arial";
+}
+ 
+.team1-fragment22 {
+  display: contents;
+}
+ 
+.team1-text59 {
+  color: rgb(102, 102, 102);
+  display: inline-block;
+  font-size: 14px;
+  font-family: "Arial";
+}
+ 
+.team1-fragment23 {
+  display: contents;
+}
+ 
+.team1-text62 {
+  color: rgb(102, 102, 102);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment24 {
+  display: contents;
+}
+ 
+.team1-text63 {
+  color: var(--dl-color-primary-navyblue);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment25 {
+  display: contents;
+}
+ 
+.team1-text64 {
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment26 {
+  display: contents;
+}
+ 
+.team1-text65 {
+  color: var(--dl-color-gray-grey);
+  display: inline-block;
+  font-size: 12px;
+  font-family: "Arial";
+}
+ 
+.team1-fragment27 {
+  display: contents;
+}
+ 
+.team1-text66 {
+  color: #666666;
+  display: inline-block;
+  font-size: 12px;
+  font-family: "Arial";
+}
+ 
+.team1-fragment28 {
+  display: contents;
+}
+ 
+.team1-text67 {
+  color: var(--dl-color-primary-navyblue);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment29 {
+  display: contents;
+}
+ 
+.team1-text68 {
+  color: var(--dl-color-primary-navyblue);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment30 {
+  display: contents;
+}
+ 
+.team1-text69 {
+  color: rgb(102, 102, 102);
+  display: inline-block;
+  font-size: 12px;
+  font-family: "Arial";
+}
+ 
+.team1-fragment31 {
+  display: contents;
+}
+ 
+.team1-text70 {
+  color: var(--dl-color-primary-navyblue);
+  display: inline-block;
+}
+ 
+.team1-fragment32 {
+  display: contents;
+}
+ 
+.team1-text71 {
+  color: rgb(102, 102, 102);
+  display: inline-block;
+  font-size: 12px;
+  font-family: "Arial";
+}
+ 
+.team1-fragment33 {
+  display: contents;
+}
+ 
+.team1-text72 {
+  color: rgb(102, 102, 102);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment34 {
+  display: contents;
+}
+ 
+.team1-text73 {
+  color: #666666;
+  display: inline-block;
+  font-size: 12px;
+  font-family: "Arial";
+}
+ 
+.team1-fragment35 {
+  display: contents;
+}
+ 
+.team1-text74 {
+  color: #666666;
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment36 {
+  display: contents;
+}
+ 
+.team1-text75 {
+  color: var(--dl-color-gray-grey);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment37 {
+  display: contents;
+}
+ 
+.team1-text76 {
+  color: rgb(102, 102, 102);
+  display: inline-block;
+  font-size: 12px;
+  font-family: "Arial";
+}
+ 
+.team1-fragment38 {
+  display: contents;
+}
+ 
+.team1-text77 {
+  display: inline-block;
+  font-size: 16px;
+}
+ 
+.team1-fragment39 {
+  display: contents;
+}
+ 
+.team1-text78 {
+  color: rgb(102, 102, 102);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment40 {
+  display: contents;
+}
+ 
+.team1-text79 {
+  color: #666666;
+  display: inline-block;
+}
+ 
+.team1-fragment41 {
+  display: contents;
+}
+ 
+.team1-text80 {
+  color: #666666;
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment42 {
+  display: contents;
+}
+ 
+.team1-text81 {
+  color: var(--dl-color-primary-navyblue);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment43 {
+  display: contents;
+}
+ 
+.team1-text82 {
+  color: rgb(102, 102, 102);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1-fragment44 {
+  display: contents;
+}
+ 
+.team1-text83 {
+  color: var(--dl-color-primary-navyblue);
+  display: inline-block;
+  font-family: "Arial";
+}
+ 
+.team1root-class-name {
+  background-color: rgba(196, 221, 229, 0.45);
+}
+ 
+@media(max-width: 991px) {
+  .team1-content11 {
+    gap: var(--dl-layout-space-fourunits);
+  }
+}
+ 
+@media(max-width: 767px) {
+  .team1-row1 {
+    align-items: center;
+    flex-direction: column;
+  }
+  .team1-row2 {
+    align-items: center;
+    flex-direction: column;
+  }
+  .team1-row3 {
+    align-items: center;
+    flex-direction: column;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .team1-text10 {
+    text-align: center;
+  }
+  .team1-text11 {
+    text-align: center;
+  }
+  .team1-container1 {
+    flex-direction: column;
+  }
+  .team1-container2 {
+    flex-direction: column;
+  }
+  .team1-container3 {
+    flex-direction: column;
+  }
+  .team1-container4 {
+    flex-direction: column;
+  }
+  .team1-container5 {
+    flex-direction: column;
+  }
+  .team1-container6 {
+    flex-direction: column;
+  }
+}
